@@ -1,0 +1,9 @@
+{
+  "version": "0.1.2",
+  "date": "2026-11-17",
+  "notes": "Pancas arrive sur Android (tablette et téléphone) : fiches, chronologie, relations, cartes en consultation et écriture, sur le coffre qu'Obsidian tient à jour. Sur le PC : le message de l'écran des mondes est retiré, l'indexation d'un petit monde ne reste plus bloquée, et le champ d'idée de l'accueil garde la main quand une fiche change ailleurs.",
+  "fichier": "Pancas-0.1.2-installation.exe",
+  "taille": 9868655,
+  "sha256": "e95480f2918780206522b613b1fb38035110685e5b68a85bc40b7b68f2673640",
+  "signature": "fa3ad0a5a4d3e9e71252c851bc00c41b84be742b67df0659efb3a3b12f5954a6ac84ae40d170b26f736e95ca7bdf825bdba6fb6a6881dfcd1e00d1c83f69030d"
+}
